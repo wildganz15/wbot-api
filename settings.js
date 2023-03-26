@@ -2,7 +2,7 @@ const fs = require('fs')
 
 global.creator = 'wildganz'// yourname
 global.MONGO_DB_URI = "mongodb+srv://wganz15:jigaz2165@cluster0.pd3el11.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "xxjoktqdqpptlmtv" //isi apa aja bebas
+global.ACTIVATION_TOKEN_SECRET = "gxgqvbdjxojcszvu" //isi apa aja bebas
 global.your_email = "wildofffc@gmail.com" //email
 global.email_password = "jigaz2165" //application password email
 global.limitCount = 10000
