@@ -3,7 +3,7 @@ const fs = require('fs')
 global.creator = 'wildganz'// yourname
 global.MONGO_DB_URI = "mongodb+srv://wganz15:jigaz2165@cluster0.pd3el11.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "wildbot" //isi apa aja bebas
-global.your_email = "wganz15@gmail.com" //email
+global.your_email = "wildoffc@gmail.com" //email
 global.email_password = "jigaz2165" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
